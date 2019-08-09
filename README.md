@@ -1,6 +1,6 @@
 ## Image Recognition on the Cifar10 dataset using PyTorch
 
-# Requirement
+### Requirement
 
 * Ubuntu 16.04 LTS
 * CUDA version 10.0
