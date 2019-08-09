@@ -8,3 +8,8 @@
 * CUDA version 10.0
 * Python version 3.6.2
 * PyTorch version 1.0
+
+### How to run
+```shell
+python cifar10.py
+```
