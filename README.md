@@ -1,5 +1,7 @@
 ## Image Recognition on the Cifar10 dataset using PyTorch
 
+![example](cifar10-min.png "Sample images")
+
 ### Requirement
 
 * Ubuntu 16.04 LTS
