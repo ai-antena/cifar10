@@ -57,7 +57,7 @@ for epoch in range(epoch_num):
         optimizer.step()
 
         running_loss += loss.item()
-    print('[%d] loss: %.3f' % (epoch + 1, running_loss / 50000))
+    print('[%d] loss: %.3f' % (epoch + 1, running_loss / len(trainloader.dataset)))
     running_loss = 0.0
 
     # 学習中のモデルをテストデータ上で評価
